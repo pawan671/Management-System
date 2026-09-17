@@ -1,2 +1,2 @@
 # Management-System
-Student Management System
+ Management System
